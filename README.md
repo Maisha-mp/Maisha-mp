@@ -4,7 +4,7 @@
 - 
 - ☾⋆⁺₊🎧✧ ➥ 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰: Programming languages and problem solving.
 - 
-- ☾⋆⁺₊🎧✧ ➥ 𝓛𝓸𝓸𝓴𝓲𝓷𝓰 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓸𝓷: Problem solving and graphic design.
+- ☾⋆⁺₊🎧✧ ➥ 𝓛𝓸𝓸𝓴𝓲𝓷𝓰 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓸𝓷: Problem solving.
 - 
 - ☾⋆⁺₊🎧✧ ➥ 𝓛𝓸𝓸𝓴𝓲𝓷𝓰 𝓯𝓸𝓻 𝓱𝓮𝓵𝓹 𝔀𝓲𝓽𝓱: Object Oriented Programs.
 - 
